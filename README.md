@@ -1,4 +1,4 @@
-# GFX Framework
+# GFX Framework - Drone Delivery Game
 
 <img src="./drone_game.png" style="width:2.6462in;height:3.0473in" />
 
